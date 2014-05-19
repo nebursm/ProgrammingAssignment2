@@ -1,4 +1,4 @@
-## R Programming - Programming Assignment 2 - Author: Ruben Adad
+## R Programming - Programming Assignment 2 
 
 # Function makeCacheMatrix receives a square inversible matrix as argument 
 # and builds a list of 4 functions: set, get, setsolve, getsolve
